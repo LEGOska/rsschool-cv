@@ -33,7 +33,7 @@ alert( result );
 ---
 
 ## Experience
-**[CV#1. Markdown & Git](https://legoska.github.io/rs_school-cv/cv)**
+**[CV#1. Markdown & Git](https://legoska.github.io/rsschool-cv/cv)**
 
 ---
 
