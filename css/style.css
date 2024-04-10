@@ -38,6 +38,10 @@ body {
     background-color: #a93636;
 }
 
+.section__user--img {
+    width: 200px;
+    height: 200px;
+}
 .main {
     margin-bottom: auto;
 }
@@ -134,7 +138,7 @@ body {
     transition: color 0.5s;
 }
 
-.section-item  a:hover {
+.section-item a:hover {
     color: #ff0101;
 }
 
@@ -195,5 +199,5 @@ body {
 
 .section-item-contacts {
     text-decoration: none;
-    
+
 }
