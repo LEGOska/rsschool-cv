@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: 'Roboto';
     src: url("/assets/fonts/Roboto-Regular.ttf");
@@ -200,4 +201,8 @@ body {
 .section-item-contacts {
     text-decoration: none;
 
+=======
+* {
+    padding: 0px;
+    margin: 0px;
 }
